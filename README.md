@@ -33,6 +33,9 @@
   ## Link to walkthrough video : 
   - https://drive.google.com/file/d/1nn9N3o1xvHKytXgNPfWGDzN0vCoultEo/view
 
+  ## Animated screenshot :
+  - [GIF](Assets\README Generator.gif)
+
   ## Questions :
    Contact me 
    
