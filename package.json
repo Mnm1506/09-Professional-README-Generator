@@ -1,15 +1,23 @@
 {
-    "name": "static-site",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "inquirer": "^6.3.1"
-    }
-  }
-  
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moussa nait merabet",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "util": "^0.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mnm1506/09-Professional-README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mnm1506/09-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Mnm1506/09-Professional-README-Generator#readme"
+}
