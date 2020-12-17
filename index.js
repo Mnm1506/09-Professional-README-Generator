@@ -9,7 +9,7 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is your project title ?:"
+        message: "What is your project title ?: "
     },
     {
         type: "input",
@@ -74,7 +74,7 @@ function writeToFile(fileName, data) {
         if(err){
             return console.log(err);
         }
-        console.log(fileName + " file Successfully created");
+        console.log("✔️ "+" A " + fileName + " file was Successfully created");
     });
 
 }

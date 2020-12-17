@@ -1,7 +1,7 @@
-# 09-Professional-README-Generator
- 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
+# 09-Professional-README-Generator
+ 
   ## Description :
     This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
@@ -15,26 +15,29 @@
   - [Qeustions](#qeustions)
   
   ## Installation :
-   The application will be invoked by using the following command: 'node index.js', npm i
+   The application will be invoked by using the following command: 'node index.js', npm i.
 
    ## Usage :
     To quickly and easily create a README file.
 
   ## License :
-  This application is covered by the MIT license.
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  - ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  - This application is covered by the MIT license.
 
   ## Contributing :
    Moussa Nait Merabet
 
   ## Tests :
    NO
-   
+
+  ## Link to walkthrough video : 
+  - https://drive.google.com/file/d/1nn9N3o1xvHKytXgNPfWGDzN0vCoultEo/view
+
   ## Questions :
    Contact me 
    
-   - Find me on GitHub: [https://github.com/Mnm1506](https://github.com/https://github.com/Mnm1506)
+   - Find me on GitHub : [https://github.com/Mnm1506](https://github.com/https://github.com/Mnm1506)
 
-   - Email me if you have any questions: [example123@email.com](https://moussanm2014@gmail.com)
+   - Email me if you have any questions : [My email](https://moussanm2014@gmail.com)
 
-   _This README was generated with ❤️ by [Professional-README-generator](https://github.com/Mnm1506/Professional-README-generator)_
+   _This README was generated with ❤️ by : [Professional-README-Generator](https://github.com/Mnm1506/09-Professional-README-Generator)_
