@@ -27,7 +27,7 @@ const questions = [
         message: "What is your project used for ?: "
     },
     {
-        type: "input",
+        type: "list",
         name: "license",
         message: "Choose a license for this project ?: ",
         choices: [
